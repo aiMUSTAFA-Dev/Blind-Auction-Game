@@ -1,7 +1,3 @@
-# TODO-1: Ask the user for input
-# TODO-2: Save data into dictionary {name: price}
-# TODO-3: Whether if new bids need to be added
-# TODO-4: Compare bids in dictionary
 
 print("Welcome To The Secret Auction Program")
 from art import logo
@@ -72,4 +68,5 @@ print(f"The winner is {winner} with bid of {highest_bid}")
 # mylist = []
 # for k in my_dict:
 #     mylist.append(my_dict[k])
+
 # highest_bid = max(mylist)
